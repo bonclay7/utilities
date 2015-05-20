@@ -5,7 +5,9 @@ import shutil
 
 """
 Description :
-This script move files from a directory's subdirectories to its root by a given extension to look for
+This script move files from a directory's subdirectories to its root by a given extension to look for.
+Usage : python file_extractor.py [dir] [file type]
+example: $ python file_extractor.py /home/ubuntu/Documents txt
 """
 
 
